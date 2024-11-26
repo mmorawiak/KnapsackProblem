@@ -1,0 +1,273 @@
+
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 9147,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 9033,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 1483,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 1152,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 5276,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 200,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 6937,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 200,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 7683,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 300,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 7971,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 7419,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 6919,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 9147,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 2000,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 9147,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 9033,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 9147,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 9033,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 9033,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 8997,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 9147,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 7421,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 9033,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 9147,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 15,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 8892,
+---
+Pojemnosc plecaka: 2543,Wielkosc problemu: 500,Rozmiar populacji: 200,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: -79990900,
+---
+Pojemnosc plecaka: 2543,Wielkosc problemu: 500,Rozmiar populacji: 1000,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: -22524443,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 9147,
+---
+Pojemnosc plecaka: 269,Wielkosc problemu: 10,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 293,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 9767,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 100,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 9734,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 1108,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 300,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 1107,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 1219,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 500,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 1301,
+---
+Pojemnosc plecaka: 2543,Wielkosc problemu: 500,Rozmiar populacji: 300,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: -74143493,
+---
+Pojemnosc plecaka: 2543,Wielkosc problemu: 500,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: -167386400,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 9762,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 9033,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 1000,Liczba pokolen: 2000,Wspolczynnik mutacji: 0.02,Wartosc najlepszego rozwiazania: 7784,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 200,Liczba pokolen: 1200,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 9033,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Wartosc najlepszego rozwiazania: 9033,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 4543,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9147,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 9147,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 8178,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 9147,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 25,Liczba pokolen: 500,Wspolczynnik mutacji: 0.02,Selekcja: tournament, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 3852,
+---
+Pojemnosc plecaka: 269,Wielkosc problemu: 10,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 293,
+---
+Pojemnosc plecaka: 269,Wielkosc problemu: 10,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 295,
+---
+Pojemnosc plecaka: 5002,Wielkosc problemu: 1000,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: -14144439669,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 8997,
+---
+Pojemnosc plecaka: 2543,Wielkosc problemu: 500,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: -131110995,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 1193,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 9767,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 50,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 9767,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 9767,
+---
+Pojemnosc plecaka: 878,Wielkosc problemu: 20,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 1024,
+---
+Pojemnosc plecaka: 878,Wielkosc problemu: 20,Rozmiar populacji: 6,Liczba pokolen: 750,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 1024,
+---
+Pojemnosc plecaka: 878,Wielkosc problemu: 20,Rozmiar populacji: 10,Liczba pokolen: 100,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 997,
+---
+Pojemnosc plecaka: 878,Wielkosc problemu: 20,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 1024,
+---
+Pojemnosc plecaka: 878,Wielkosc problemu: 20,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 1018,
+---
+Pojemnosc plecaka: 878,Wielkosc problemu: 20,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 1018,
+---
+Pojemnosc plecaka: 878,Wielkosc problemu: 20,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 990,
+---
+Pojemnosc plecaka: 878,Wielkosc problemu: 20,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 993,
+---
+Pojemnosc plecaka: 878,Wielkosc problemu: 20,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 1013,
+---
+Pojemnosc plecaka: 878,Wielkosc problemu: 20,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 1024,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 9756,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9762,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 9754,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 9743,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9762,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9753,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9757,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9741,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9737,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9752,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9749,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9760,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9743,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9746,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9735,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9747,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9732,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9745,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9744,
+---
+Pojemnosc plecaka: 10000,Wielkosc problemu: 23,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9760,
+---
+Pojemnosc plecaka: 879,Wielkosc problemu: 20,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 1005,
+---
+Pojemnosc plecaka: 879,Wielkosc problemu: 20,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 1025,
+---
+Pojemnosc plecaka: 879,Wielkosc problemu: 20,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 942,
+---
+Pojemnosc plecaka: 879,Wielkosc problemu: 20,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 1019,
+---
+Pojemnosc plecaka: 879,Wielkosc problemu: 20,Rozmiar populacji: 10,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 1025,
+---
+Pojemnosc plecaka: 60,Wielkosc problemu: 10,Rozmiar populacji: 10,Liczba pokolen: 100,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 51,
+---
+Pojemnosc plecaka: 60,Wielkosc problemu: 10,Rozmiar populacji: 10,Liczba pokolen: 500,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 52,
+---
+Pojemnosc plecaka: 269,Wielkosc problemu: 10,Rozmiar populacji: 10,Liczba pokolen: 100,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 293,
+---
+Pojemnosc plecaka: 269,Wielkosc problemu: 10,Rozmiar populacji: 10,Liczba pokolen: 150,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 295,
+---
+Pojemnosc plecaka: 269,Wielkosc problemu: 10,Rozmiar populacji: 10,Liczba pokolen: 100,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 237,
+---
+Pojemnosc plecaka: 269,Wielkosc problemu: 10,Rozmiar populacji: 10,Liczba pokolen: 100,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 212,
+---
+Pojemnosc plecaka: 269,Wielkosc problemu: 10,Rozmiar populacji: 10,Liczba pokolen: 200,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 295,
+---
+Pojemnosc plecaka: 269,Wielkosc problemu: 10,Rozmiar populacji: 10,Liczba pokolen: 200,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 252,
+---
+Pojemnosc plecaka: 269,Wielkosc problemu: 10,Rozmiar populacji: 10,Liczba pokolen: 200,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 282,
+---
+Pojemnosc plecaka: 269,Wielkosc problemu: 10,Rozmiar populacji: 10,Liczba pokolen: 200,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 252,
+---
+Pojemnosc plecaka: 269,Wielkosc problemu: 10,Rozmiar populacji: 10,Liczba pokolen: 200,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 293,
+---
+Pojemnosc plecaka: 269,Wielkosc problemu: 10,Rozmiar populacji: 10,Liczba pokolen: 200,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 282,
+---
+Pojemnosc plecaka: 269,Wielkosc problemu: 10,Rozmiar populacji: 10,Liczba pokolen: 200,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 293,
+---
+Pojemnosc plecaka: 269,Wielkosc problemu: 10,Rozmiar populacji: 10,Liczba pokolen: 200,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 238,
+---
+Pojemnosc plecaka: 269,Wielkosc problemu: 10,Rozmiar populacji: 10,Liczba pokolen: 200,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 295,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 5810,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: -25399570,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 200,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 7710,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 200,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 8146,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 9147,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 150,Liczba pokolen: 100,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 6338,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 150,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 8721,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 200,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 6127,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 200,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 5642,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 200,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 7156,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 300,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 8266,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 300,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 6249,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 300,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 7312,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 300,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9004,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 300,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 7722,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 300,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 5635,
+---
+Pojemnosc plecaka: 1008,Wielkosc problemu: 200,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: -17336020,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 9147,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9147,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 10,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: -26748773,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 5758,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 5981,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 100,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 4389,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 200,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 9147,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 200,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 9147,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 200,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 5972,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 200,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 6161,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 200,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 1572,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 200,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: tournament, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 1475,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 200,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: one-point, Wartosc najlepszego rozwiazania: 1171,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 200,Liczba pokolen: 1000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 1200,
+---
+Pojemnosc plecaka: 995,Wielkosc problemu: 100,Rozmiar populacji: 200,Liczba pokolen: 3000,Wspolczynnik mutacji: 0.01,Selekcja: rank, Krzyzowanie: two-point, Wartosc najlepszego rozwiazania: 1039,
+---
