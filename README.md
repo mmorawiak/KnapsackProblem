@@ -117,7 +117,7 @@ Uruchomienie programu zwróci najlepsze znalezione rozwiązanie oraz wykres prze
 Autorzy:
 	
   	Maciej Morawiak 51528
- 		Alicja Żydek 49597
+ 	Alicja Żydek 49597
 
 
 
