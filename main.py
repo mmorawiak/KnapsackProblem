@@ -1,3 +1,4 @@
+#main.py
 from import_data import Knapsack
 from genetic_algorithm import GeneticAlgorithm
 import time
